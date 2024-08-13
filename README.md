@@ -46,7 +46,4 @@ Replace `YOUR_HF_API_KEY` your Hugging Face API key (`HF_TOKEN`) and run the fol
 
 ```bash
 docker run -it chatbot-arena-analysis -e HF_TOKEN=YOUR_HF_API_KEY python chatbot_arena_statistical_analysis.py
-
-docker run -it -e HF_TOKEN=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 chatbot-arena-analysis  python chatbot_arena_statistical_analysis.py
-
 ```
