@@ -33,7 +33,7 @@ A t-test on the scores of GPT-4 and Claude-v1 yielded a p-value of 0.0265, a tes
 
 This analysis can be extended to other models on the leaderboard. For instance, we could compare models within the same API cost tier, providing a more nuanced comparison. Moving beyond a single score to a more comprehensive analysis is a step in the right direction. Rigorous evaluations are crucial in the landscape of LLMs. 
 
-I look forward to obtaining the updated dataset from LMSYS to conduct a more thorough analysis. With the additional data and inclusion of the latest models, some of the concerns raised in this post may be addressed. I welcome your thoughts on this analysis and any suggestions for future work.
+I look forward to obtaining the updated dataset from LMSYS to conduct a more thorough analysis. With the additional data and inclusion of the latest models, some of the concerns raised in this post may be addressed. I welcome your thoughts on this analysis and any suggestions for future work. The source code for this analysis is available on my [GitHub repository](https://github.com/mo-arvan/chatbot-arena-analysis).
 
 ## Running the Code
 
